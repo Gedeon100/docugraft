@@ -1,0 +1,6 @@
+{
+  "name": "Vidia - Studio Vidéo Publicitaire & Motion Design",
+  "description": "Plateforme SaaS professionnelle pour convertir des images en vidéo, générer des publicités dynamiques, créer des storyboards avec voix off et motion design en illimité sans abonnement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
